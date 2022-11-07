@@ -33,7 +33,7 @@ The light size and number of samples can be changed for soft shadows
 
 
 
-1  Soft Shadows ---------------- Done ![Soft Shadows](./examples/softShadows.png Soft Shadows)  
+1  Soft Shadows ---------------- Done ![Soft Shadows](./examples/softShadows.png)  
 2  Depth of Field -------------- Done (DOF.png)  
 3  Glossy Reflection ----------- Done (glossyReflection.png)  
 4  Glossy Refraction ----------- Done (glossyRefraction.png)  
