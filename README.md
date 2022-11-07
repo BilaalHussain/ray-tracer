@@ -33,13 +33,22 @@ The light size and number of samples can be changed for soft shadows
 
 
 
-1  Soft Shadows ---------------- Done ![Soft Shadows](./examples/softShadows.png)  
-2  Depth of Field -------------- Done (DOF.png)  
-3  Glossy Reflection ----------- Done (glossyReflection.png)  
-4  Glossy Refraction ----------- Done (glossyRefraction.png)  
-5  Recursive Reflection -------- Done   
-6  Specular Reflection --------- Done (specularRefraction.png  
-7  Specular Refraction --------- Done (specularReflection.png)  
-8  Supersample AA --------------- Done (AA.png)  
-9  Cell Shading ---------------- Done (cellShaded.png)  
+# Soft Shadows
+
+![Soft Shadows](./examples/softShadows.png)  
+# Depth of Field 
+
+![Depth of Field](./examples/DOF.png)  
+# Glossy Reflection
+ [Glossy Reflection](./examples/glossyReflection.png)  
+# Glossy Refraction
+ [Glossy Refraction](./examples/glossyRefraction.png)  
+# Specular Reflection
+[Specular Reflection](./examples/specularRefraction.png)
+# Specular Refraction
+ [Specular Refraction](./examples/specularReflection.png)  
+# Supersample AA
+ [Supersample Anti Aliasing](./examples/AA.png)  
+# Cell Shading ----------------
+[Cell Shading](./examples/cellShaded.png)  
 
