@@ -2,7 +2,7 @@
 
 ## Multiple Features:
 
-This scene uses a square shaped lens to focus the depth of field light rays and converge them onto the viewer's eye
+This scene uses a square shaped lens to focus the depth of field light rays and converge them onto the viewer's eye  
 ![My Scene](./examples/screenshot.png)  
 ## Glossy Reflection
 ![Glossy Reflection](./examples/glossyReflection.png)  
