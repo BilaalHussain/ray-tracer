@@ -16,13 +16,13 @@
 ## Cell Shading
 ![Cell Shading](./examples/cellShaded.png)  
 
-# Compilation
+# Compilation and Run Requirements
 - `premake4 gmake && make && cd Assets && ../A5 <FILENAME>` where filename is a lua script Assets folder
-the format of a4 is used for this project
+the format of a4 is used for this project.  
 
--- Requirements
--- C++17
--- (OpenGL Mathematics) [https://github.com/g-truc/glm]
+Requires:
+- C++17
+- (OpenGL Mathematics) [https://github.com/g-truc/glm]
 # Manual
 
 - Here is a list of all flags from Option.hpp. Changing flags requires recompilation
