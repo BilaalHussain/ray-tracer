@@ -1,3 +1,21 @@
+# Examples
+## Soft Shadows
+![Soft Shadows](./examples/softShadows.png)  
+## Depth of Field 
+![Depth of Field](./examples/DOF.png)  
+## Glossy Reflection
+![Glossy Reflection](./examples/glossyReflection.png)  
+## Glossy Refraction
+![Glossy Refraction](./examples/glossyRefraction.png)  
+## Specular Reflection
+![Specular Reflection](./examples/specularRefraction.png)
+## Specular Refraction
+![Specular Refraction](./examples/specularReflection.png)  
+## Supersample AA
+![Supersample Anti Aliasing](./examples/AA.png)  
+## Cell Shading
+![Cell Shading](./examples/cellShaded.png)  
+
 # Compilation
 - `premake4 gmake && make && cd Assets && ../A5 <FILENAME>` where filename is a lua script Assets folder
 the format of a4 is used for this project
@@ -29,26 +47,4 @@ The number of samples for Glossy Reflection, Glossy Refraction, Soft Shadows, an
 The lens size, focal length can be changed for depth of field
 
 The light size and number of samples can be changed for soft shadows
-
-
-
-
-# Soft Shadows
-
-![Soft Shadows](./examples/softShadows.png)  
-# Depth of Field 
-
-![Depth of Field](./examples/DOF.png)  
-# Glossy Reflection
- [Glossy Reflection](./examples/glossyReflection.png)  
-# Glossy Refraction
- [Glossy Refraction](./examples/glossyRefraction.png)  
-# Specular Reflection
-[Specular Reflection](./examples/specularRefraction.png)
-# Specular Refraction
- [Specular Refraction](./examples/specularReflection.png)  
-# Supersample AA
- [Supersample Anti Aliasing](./examples/AA.png)  
-# Cell Shading ----------------
-[Cell Shading](./examples/cellShaded.png)  
 
