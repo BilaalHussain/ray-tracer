@@ -1,20 +1,25 @@
 # Examples
-## Soft Shadows
-![Soft Shadows](./examples/softShadows.png)  
-## Depth of Field 
-![Depth of Field](./examples/DOF.png)  
+
+## Multiple Features:
+
+### This scene uses a square shaped lens to focus the depth of field (similar to corrective lenses)
+![My Scene](./examples/screenshot.png)  
 ## Glossy Reflection
 ![Glossy Reflection](./examples/glossyReflection.png)  
 ## Glossy Refraction
 ![Glossy Refraction](./examples/glossyRefraction.png)  
+## Soft Shadows
+![Soft Shadows](./examples/softShadows.png)  
+## Depth of Field 
+![Depth of Field](./examples/DOF.png)  
+## Cell Shading
+![Cell Shading](./examples/cellShaded.png)  
 ## Specular Reflection
 ![Specular Reflection](./examples/specularRefraction.png)
 ## Specular Refraction
 ![Specular Refraction](./examples/specularReflection.png)  
 ## Supersample AA
 ![Supersample Anti Aliasing](./examples/AA.png)  
-## Cell Shading
-![Cell Shading](./examples/cellShaded.png)  
 
 # Compilation and Run Requirements
 - `premake4 gmake && make && cd Assets && ../A5 <FILENAME>` where filename is a lua script Assets folder
