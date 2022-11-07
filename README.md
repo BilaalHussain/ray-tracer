@@ -8,16 +8,16 @@ This scene uses a square shaped lens to focus the depth of field light rays and 
 ![Glossy Reflection](./examples/glossyReflection.png)  
 ## Glossy Refraction
 ![Glossy Refraction](./examples/glossyRefraction.png)  
-## Soft Shadows
-![Soft Shadows](./examples/softShadows.png)  
-## Depth of Field 
-![Depth of Field](./examples/DOF.png)  
 ## Cell Shading
 ![Cell Shading](./examples/cellShaded.png)  
 ## Specular Reflection
 ![Specular Reflection](./examples/specularRefraction.png)
 ## Specular Refraction
 ![Specular Refraction](./examples/specularReflection.png)  
+## Soft Shadows
+![Soft Shadows](./examples/softShadows.png)  
+## Depth of Field 
+![Depth of Field](./examples/DOF.png)  
 ## Supersample AA
 ![Supersample Anti Aliasing](./examples/AA.png)  
 
