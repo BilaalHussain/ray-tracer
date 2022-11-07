@@ -1,0 +1,4 @@
+auto-revert-mode
+auto-image-file-mode
+cd ~/cs488/A4 && make && cd Assets/ && time ../A4 simple.lua
+winner-mode
